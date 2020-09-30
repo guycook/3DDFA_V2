@@ -16,3 +16,5 @@ clean_git.sh
 
 websmooth.py
 demo_webcam.py
+
+*.pyd
